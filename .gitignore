@@ -1,0 +1,24 @@
+# Ambientes Virtuais (Python)
+.venv/
+venv/
+ENV/
+env/
+
+# Configurações de Ambiente e Chaves (Segurança!)
+.env
+.env.local
+
+# Banco de Dados Vetorial e Arquivos Locais do Agente
+**/documentos/
+**/lancedb_data/
+*.pdf
+*.txt
+
+# Caches do Python e Streamlit
+__pycache__/
+*.pyc
+.streamlit/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
