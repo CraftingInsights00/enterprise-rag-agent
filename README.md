@@ -21,7 +21,13 @@ Abaixo você pode conferir o agente de IA em ação, realizando o upload e inter
 
 
 
-https://github.com/CraftingInsights00/enterprise-rag-agent/assets/showcase.mp4
+
+
+https://github.com/user-attachments/assets/405cec0d-f4ef-4140-b9d4-43b52c2f9148
+
+
+
+
 
 
 
