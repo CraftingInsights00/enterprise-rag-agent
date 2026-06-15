@@ -1,19 +1,6 @@
 \# Enterprise RAG Agent 🤖📊
 
 
-
-\[!\[Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-
-\[!\[FastAPI](https://img.shields.io/badge/FastAPI-v0.100+-009688.svg)](https://fastapi.tiangolo.com/)
-
-\[!\[Agno](https://img.shields.io/badge/Agno%20Framework-Core-orange.svg)](https://github.com/agno-ai/agno)
-
-\[!\[Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B.svg)](https://streamlit.io/)
-
-\[!\[LanceDB](https://img.shields.io/badge/LanceDB-Serverless-black.svg)](https://github.com/lancedb/lancedb)
-
-
-
 Este repositório contém uma aplicação completa de \*\*RAG (Retrieval-Augmented Generation)\*\* corporativo desenhada sob uma arquitetura de microsserviços totalmente desacoplada (Backend API e Frontend UI). 
 
 
